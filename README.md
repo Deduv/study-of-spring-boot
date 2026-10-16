@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meu Primeiro Spring Boo
+# Meu Primeiro Spring Boot
 
 Repositório de estudo do ecossistema Spring Boot
 
